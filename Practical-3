@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport content="width=device-width, initial-scale=1.0">
+	<title>Assignment-3</title>
+</head>
+<body>
+	<h1>Welcome to Fullstack Course</h1>
+	<h2>About Course</h2>
+	<p>Full stack development refers to the development of both front end and back end 
+	portions of web application. Front end mainly consists of languages such as 
+	HTMl(Hypertext Markup Language), CSS(Cascading Style Sheets) and JavaScript along 
+	with frameworks such as AngularJS, React.js, Bootstrap etc. Backend development 
+	refers to server side development. The back end can be developed by using some 
+	libraries, frameworks, and languages such as PHP, C++, Python, Java, JS, Node.js 
+	and frameworks used can be  Express, Django etc.
+	</p>
+</body>
+</html>
